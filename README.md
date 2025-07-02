@@ -1,2 +1,0 @@
-# frontend_nextjs_student_management_self_learning
-
